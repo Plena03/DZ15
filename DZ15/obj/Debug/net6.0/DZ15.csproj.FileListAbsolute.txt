@@ -1,0 +1,15 @@
+D:\C#_3\Seminar2\DZ15\bin\Debug\net6.0\DZ15.exe
+D:\C#_3\Seminar2\DZ15\bin\Debug\net6.0\DZ15.deps.json
+D:\C#_3\Seminar2\DZ15\bin\Debug\net6.0\DZ15.runtimeconfig.json
+D:\C#_3\Seminar2\DZ15\bin\Debug\net6.0\DZ15.dll
+D:\C#_3\Seminar2\DZ15\bin\Debug\net6.0\DZ15.pdb
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.csproj.AssemblyReference.cache
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.AssemblyInfoInputs.cache
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.AssemblyInfo.cs
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.csproj.CoreCompileInputs.cache
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.dll
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\refint\DZ15.dll
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.pdb
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\DZ15.genruntimeconfig.cache
+D:\C#_3\Seminar2\DZ15\obj\Debug\net6.0\ref\DZ15.dll
